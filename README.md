@@ -3,4 +3,5 @@ I am a student at Colorado Mountain College - Leadville and I am pursuing a GIS 
 
 ## Leadville's East Side Snowmobile Trails - Birdseye Gulch Access
 This map details the snowmobile tour routes used by High Country Tours. These trail networks are available to the public for motorized and non-motorized use. This resource is not intended to serve as a comprehensive map of the trail system and is not to be relied upon to mitigate avalanche danger or other hazards in and around these trails.
+! [Birdseye Gulch](BirdseyeGulchSBTrails.jpg)
 GIS Portfolio
